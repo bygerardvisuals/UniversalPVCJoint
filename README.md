@@ -1,4 +1,4 @@
-# PVC Universal joint
+# Universal PVC joint
 
 
 🥳 This is a minimalistic mutipurpose PVC joint, designed to build unimaginable structures on a simple way 🥳
